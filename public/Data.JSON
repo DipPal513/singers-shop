@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Taylor Swift",
+    "netWorth": "$5.3M",
+    "country": "United States",
+    "salary": 27500000,
+    "img": "https://popnable.com/images/singers/large/taylor_swift_united_states_top_50_233.jpeg",
+    "key": 1,
+    "role": "singer",
+    "age": 32
+  },
+  {
+    "name": "Cardi B",
+    "netWorth": "$4.9M",
+    "country": "Manhattan",
+    "salary": 11400000,
+    "role": "singer",
+    "age": 35,
+    "img": "https://popnable.com/images/singers/large/cardi_b_united_states_top_50_233.jpeg",
+    "key" : 3
+  },
+  {
+    "name": "Katy Perry",
+    "netWorth": "$4.8M",
+    "country": "United States",
+    "salary": 3000000,
+    "role": "singer",
+    "age": 32,
+    "img": "https://popnable.com/images/singers/large/katy_perry_united_states_top_50_233.jpeg",
+    "key" : 2
+  },
+  {
+    "name": "Billie Eilish",
+    "netWorth": "$4.7M",
+    "country": "United States",
+    "salary": 3000000,
+    "role": "singer",
+    "age": 32,
+    "img": "https://popnable.com/images/singers/large/billie_eilish_united_states_top_50_233.jpeg",
+    "key": 5
+  },
+  {
+    "name": "Marshmello",
+    "netWorth": "$3.7M",
+    "country": "United States",
+    "salary": 3500000,
+    "role": "producer",
+    "img": "https://popnable.com/images/singers/large/marshmello_united_states_top_50_233.jpeg",
+    "key": 178
+  },
+  {
+    "name": "Post Malone",
+    "netWorth": "$3.6M",
+    "country": "United States",
+    "salary": 3700000,
+    "role": "singer",
+    "img": "https://popnable.com/images/singers/large/post_malone_united_states_top_50_233.jpeg",
+    "key": 10
+  },
+  {
+    "name": "Ariana Grande",
+    "netWorth": "$3.3M",
+    "country": "United States",
+    "salary": 2000000,
+    "role": "singer",
+    "img": "https://popnable.com/images/singers/large/ariana_grande_united_states_top_50_233.jpeg",
+    "key": 11
+  },
+  {
+    "name": "Post Malone",
+    "netWorth": "$3.6M",
+    "country": "United States",
+    "salary": 2144000,
+    "role": "singer",
+    "img": "https://popnable.com/images/singers/large/taylor_swift_united_states_top_50_233.jpeg",
+    "key": 14
+  },
+  {
+    "name": "Selena Gomez",
+    "netWorth": "$3M",
+    "country": "United States",
+    "salary": 4444000,
+    "role": "singer",
+    "img": "https://popnable.com/images/singers/large/selena_gomez_united_states_top_50_233.jpeg",
+    "key": 15
+  },
+  {
+    "name": "Travis Scott",
+    "netWorth": "$2.8M",
+    "country": "United States",
+    "salary": 3200000,
+    "role": "singer",
+    "img": "https://popnable.com/images/singers/large/travis_scott_united_states_top_50_233.jpeg",
+    "key": 177
+  },
+  {
+    "name": "Khalid",
+    "netWorth": "$3.7M",
+    "country": "United States",
+    "salary": 2770000,
+    "role": "singer",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Khalid-MTV_smiling.jpg/220px-Khalid-MTV_smiling.jpg",
+    "key": 58
+  }
+]
