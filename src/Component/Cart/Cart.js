@@ -5,7 +5,6 @@ export const Cart = (props) => {
   const {cart} = props;
   cart.map((singer) => {
     total += singer.salary;
-    
   });
 
   return (
@@ -18,7 +17,7 @@ export const Cart = (props) => {
       <h5 className = 'mt-3'>Singer's added</h5>
       <ul>
       {
-        cart.map( item => <li style = {{listStyle: 'none' ,textAlign:'left'}}>{item.name}</li>)
+        cart.map( item => <li key= { item.key} style = {{listStyle: 'none' ,textAlign:'left'}}>{item.name} </li>)
       }
       </ul>
     </div>

@@ -32,7 +32,7 @@ export const Shop = () => {
         </div>
       </div>
       <div className="col-lg-3">
-        <Cart cart={cart} />
+        <Cart cart={cart}/>
       </div>
     </div>
   );
