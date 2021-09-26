@@ -1,8 +1,8 @@
 # American singer list
 
 <ul>
-  <li>All singer salary</li>
-  <li>Their net worth</li>
-  <li>in your budget</li>
+  <li>All famous singers in America</li>
+  <li>I have used react framework</li>
+  <li>clean and user friendly website</li>
 </ul>
-live site link [https://app.netlify.com/sites/heuristic-saha-035e4e/overview
+live site link https://heuristic-saha-035e4e.netlify.app/
