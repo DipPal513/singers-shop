@@ -5,7 +5,8 @@ import "./Shop.css";
 
 export const Shop = () => {
   const [singers, setSingers] = useState([]);
-    const [cart,setCart] = useState([]);
+  const [cart, setCart] = useState([]);
+  // fetching data
   useEffect(() => {
     fetch("./Data.JSON")
       .then((res) => res.json())
@@ -13,9 +14,9 @@ export const Shop = () => {
   }, []);
 
   const handleAddToCart = (singer) => {
-      const newCart = [...cart , singer]
-    setCart(newCart)
-    console.log(cart)
+    // for cart
+    const newCart = [...cart, singer];
+    setCart(newCart);
   };
   return (
     <div className="row mt-5">
@@ -31,7 +32,7 @@ export const Shop = () => {
         </div>
       </div>
       <div className="col-lg-3">
-          <Cart cart = {cart}/>
+        <Cart cart={cart} />
       </div>
     </div>
   );
