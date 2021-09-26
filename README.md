@@ -1,4 +1,4 @@
-# American singer list
+# American famous singers list
 
 <ul>
   <li>All famous singers in America</li>
